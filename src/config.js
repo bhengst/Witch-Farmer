@@ -1,0 +1,8 @@
+const CONFIG = {
+  DEFAULT_HEIGHT: 666,
+  DEFAULT_WIDTH: 1000,
+  WALK_SPEED: 150,
+  DEFAULT_GRAVITY: 150
+}
+
+export default CONFIG
